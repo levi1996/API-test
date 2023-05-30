@@ -1,0 +1,23 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levi1996/API-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levi1996/API-test/issues"
+  },
+  "homepage": "https://github.com/levi1996/API-test#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "node-fetch2": "^1.6.3"
+  }
+}
