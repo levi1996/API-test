@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: levi-api
-          image: us-docker.pkg.dev/unstable-unicorns-389016/levi-api          
+          image: us-docker.pkg.dev/unstable-unicorns-389016/levi-api/api-test:latest         
           ports:
             - containerPort: 3000
           resources:
